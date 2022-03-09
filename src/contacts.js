@@ -20,6 +20,13 @@ const contacts = [
     imgURL: "https://tse4.mm.bing.net/th/id/OIP.MNcYYIK-sdvYU-U8-15edgHaGL?w=206&h=172&c=7&o=5&pid=1.7",
     phone: "+918 372 574",
     email: "pannutapsee@gmail.com"
+  },
+  {
+    id: 4,
+    name: "Kasak Vaish",
+    imgURL: "https://cdn.codechef.com/sites/default/files/uploads/pictures/80f56033aeaae4db7cbb32c4822a44e0.jpeg",
+    phone: "+91 878 662 1489",
+    email: "kasakvaish02@gmail.com"
   }
 ];
 
