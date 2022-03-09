@@ -1,3 +1,6 @@
+// import kasak from './components/image/Kasak4.jpeg'
+var kasak = require('./components/image/Kasak3.jpeg')
+
 const contacts = [
   {
     id: 1,
@@ -24,7 +27,7 @@ const contacts = [
   {
     id: 4,
     name: "Kasak Vaish",
-    imgURL: "https://cdn.codechef.com/sites/default/files/uploads/pictures/80f56033aeaae4db7cbb32c4822a44e0.jpeg",
+    imgURL: "https://cdn.codechef.com/sites/default/files/uploads/pictures/9c46131710fcc29bb1775a2ad3711c1f.jpeg",
     phone: "+91 878 662 1489",
     email: "kasakvaish02@gmail.com"
   }
