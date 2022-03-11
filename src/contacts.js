@@ -1,7 +1,13 @@
 // import kasak from './components/image/Kasak4.jpeg'
-var kasak = require('./components/image/Kasak3.jpeg')
 
 const contacts = [
+  {
+    id: 4,
+    name: "Kasak Vaish",
+    imgURL: "https://avatars.githubusercontent.com/u/99035589?v=4",
+    phone: "+91 7*8 4*7 8594",
+    email: "kasakvaish02@gmail.com"
+  },
   {
     id: 1,
     name: "Beyonce",
@@ -23,13 +29,6 @@ const contacts = [
     imgURL: "https://tse4.mm.bing.net/th/id/OIP.MNcYYIK-sdvYU-U8-15edgHaGL?w=206&h=172&c=7&o=5&pid=1.7",
     phone: "+918 372 574",
     email: "pannutapsee@gmail.com"
-  },
-  {
-    id: 4,
-    name: "Kasak Vaish",
-    imgURL: "https://cdn.codechef.com/sites/default/files/uploads/pictures/9c46131710fcc29bb1775a2ad3711c1f.jpeg",
-    phone: "+91 878 662 1489",
-    email: "kasakvaish02@gmail.com"
   }
 ];
 
